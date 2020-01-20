@@ -1,6 +1,6 @@
 # Salon-Booking-App-UX-Mockups
 
-##Project Name:
+## Project Name:
 Hairli
 
 ## Primary Objective: 
@@ -54,3 +54,13 @@ also shows pricing for different style modifications according to the client’s
 
 ## BOOK APPOINTMENT
 ![image](https://user-images.githubusercontent.com/52611435/72710773-c99c7180-3b35-11ea-82a9-cfeeb366541b.png)
+
+## TIME DROPDOWN
+![image](https://user-images.githubusercontent.com/52611435/72711052-50e9e500-3b36-11ea-8692-df76d1867c9d.png)
+
+## CATEGORY DROPDOWN
+![image](https://user-images.githubusercontent.com/52611435/72711114-6b23c300-3b36-11ea-9718-53025499a1ac.png)
+
+## SERVICES DROPDOWNS
+![image](https://user-images.githubusercontent.com/52611435/72711159-8393dd80-3b36-11ea-99ad-b77f4d7e68be.png)
+![image](https://user-images.githubusercontent.com/52611435/72711217-960e1700-3b36-11ea-9a3b-011cc659b634.png)
